@@ -1,4 +1,9 @@
 # My-Roblox-Scripts
+If you found any bug just create a ticket in issues and hopefully i will be able to fix it
+
+
+
+
 If you want to modify anything and publish it you mush credit me and link to the original script
 if you are going to sell it somehow you will need to create an issue in github and i will have to approve or decline your request!
 
